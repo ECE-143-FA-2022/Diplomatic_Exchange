@@ -219,11 +219,7 @@ def chordDiagram(X, ax, colors=None, width=0.1, pad=2, chordwidth=0.7):
 ##################################
 if __name__ == "__main__":
     fig = plt.figure(figsize=(6,6))
-    flux = np.array([   [0,  1, 2, ],
-                        [ 1, 0, 1, ],
-                        [ 2, 3, 0, ],
-                      
-    ])
+
 
 
     data = pd.read_csv('COW-country-codes.csv', sep=",")

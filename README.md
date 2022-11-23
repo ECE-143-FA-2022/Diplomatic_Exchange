@@ -1,8 +1,10 @@
-# sankey-diagram
+Important!!!
 
-Both demo_0.py and demo.py are valid. 
+You Must Install sankey diagram package with "pip install mpl-chord-diagram". 
 
-For demo.py, you must install mpl-chord-diagram package with "pip install mpl-chord-diagram". 
+"COW-country-codes.csv" and "Diplomatic_Exchange_2006v1.csv" should be in the same folder where diplomatic_exchange.ipynb is.
 
-For demo_0.py, you can run demo_0.py without any third party package.
 
+├── COW-country-codes.csv
+├── Diplomatic_Exchange_2006v1.csv
+└── diplomatic_exchange.ipynb
